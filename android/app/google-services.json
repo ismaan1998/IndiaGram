@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "721751705381",
+    "firebase_url": "https://indiagram-a768b.firebaseio.com",
+    "project_id": "indiagram-a768b",
+    "storage_bucket": "indiagram-a768b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721751705381:android:23384aba9860f634743ccc",
+        "android_client_info": {
+          "package_name": "com.indrajeet.indiagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721751705381-11upg1kc41nrs47cdm7r65ah9k5reh62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indrajeet.indiagram",
+            "certificate_hash": "9c97ebac4fb4399e592a0983941fb1b5ba2a13d4"
+          }
+        },
+        {
+          "client_id": "721751705381-4qbslb8vio1nvtafff2rtirbv4p5el3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9mHBFSCwVzMwdBsAk6qg77lHWEEpyCTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721751705381-4qbslb8vio1nvtafff2rtirbv4p5el3j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "721751705381-1hhs3pd6lpp9el6iaf90143cjhpp3u41.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.indrajeet.indiagram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
